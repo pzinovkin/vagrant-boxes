@@ -1,12 +1,6 @@
-# CentOS-6.5-x86_64 Vagrant base box with Docker
+# CentOS-6.5-x86_64 Vagrant base box
 
-Kernel upgraded to 3.10.36-1.el6.elrepo.x86_64
-
-## Installed
-
- - Docker 0.9.0, build 2b3fdf2/0.9.0
- - Node v0.10.26
- - npm 1.3.6
+Docker 0.9.0 (build 2b3fdf2/0.9.0) from epel.
 
 ## How to build
 

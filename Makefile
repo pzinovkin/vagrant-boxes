@@ -8,4 +8,5 @@ init:
 
 clean:
 	vagrant destroy
+	rm Vagrantfile
 	vagrant box remove centos6.5

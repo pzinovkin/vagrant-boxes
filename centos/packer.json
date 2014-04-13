@@ -36,7 +36,6 @@
   "post-processors": [
     {
       "type": "vagrant",
-      "compression_level": 9,
       "output": "centos6.5-x86_64.box"
     }
   ]
